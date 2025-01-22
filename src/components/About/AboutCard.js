@@ -13,8 +13,8 @@ function AboutCard() {
             <br />
             I am currently employed as a react developer at Etechno solushan.
             <br />
-            I have completed Integrated MSc (IMSc) in Maths and Computing at BIT
-            Mesra.
+            I have completed BBA Computing at Deogiri College At Aurangabad
+              ,Maharashtra. and i have also completed Full Stack Web Development Course
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
