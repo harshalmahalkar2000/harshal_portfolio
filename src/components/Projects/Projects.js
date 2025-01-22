@@ -23,7 +23,7 @@ function Projects() {
               imgPath={BloodBankProject}
               isBlog={false}
               title="BloodBank_Project"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
+              description="The BloodBank Project in React.js could serve as a platform for blood donation management. It allows users to register, search for blood donors, request blood, or manage donor information efficiently.."
               ghLink="https://github.com/harshalmahalkar2000/BloodBank_Project/tree/main/FRONTEND"
               
             />
@@ -34,7 +34,7 @@ function Projects() {
               imgPath={fooddeliveryapp}
               isBlog={false}
               title="food-delivery-app"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
+              description="The Food Delivery App allows users to browse restaurants, order food, track deliveries, and make payments online. React.js serves as the frontend framework, offering an interactive and responsive user interface."
               ghLink="https://github.com/harshalmahalkar2000/food-delivery-app"
             />
           </Col>
@@ -44,7 +44,7 @@ function Projects() {
               imgPath={DMartEcomProject}
               isBlog={false}
               title="D-Mart-E-com_Project"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
+              description="The D-Mart E-commerce Project is a React.js-based platform for seamless online shopping. Users can browse products, add items to a cart or wishlist, and securely checkout with payment integration. It features filters, order tracking, and a responsive design. Admins can manage inventory, orders, and analytics efficiently."
               ghLink="https://github.com/harshalmahalkar2000/D-Mart-E-com_Project"
               demoLink="https://editor.soumya-jit.tech/"              
             />
